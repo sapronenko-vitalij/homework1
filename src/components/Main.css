@@ -1,0 +1,7 @@
+.main {
+    background-color: rgb(127, 142, 255);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 100px;
+    justify-content: space-around;
+}
